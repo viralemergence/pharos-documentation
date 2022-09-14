@@ -30,13 +30,13 @@ Indicate nested associations by marking _different samples_ from the same animal
 
 Researchers may also find themselves in a situation where they test a free-living vector for a vector-borne pathogen. As this denotes a true host-parasite association, this would still be permissible, even if the test result is negative. In these circumstances, the free-living vector should be recorded as the host; e.g., a mosquito tested for dengue fever:
 
-| Host species | Pathogen | Detection outcome | 
+| Host species | Detection target | Detection outcome | 
 | --- | --- | --- |
 | _Aedes aegypti_ | Dengue virus | Negative | 
 
 On the other hand, free-living stages without pathogens are outside the scope of this database, and **should not be submitted**; e.g., a questing tick found in the environment:
 
 
-| Host species | Pathogen | Detection outcome | 
+| Host species | Detection target | Detection outcome | 
 | --- | --- | --- |
-| _Aedes aegypti_ | NA | NA | 
+| _Ixodes scapularis_ | None | NA | 
