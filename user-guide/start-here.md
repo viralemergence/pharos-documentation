@@ -1,4 +1,6 @@
-
+---
+title: Start here
+---
 
 ## Data we accept
 
@@ -16,7 +18,6 @@ PHAROS collects data on pathogen testing or parasite sampling in wild animals, w
 
 - Ticks tested for Lyme disease and viral pathogens after being removed from trapped rodents in a forest-suburb mosaic
 
-
 ## Data we don't accept
 
 1. **Human clinical data.** We do not accept any data on human disease surveillance. We encourage you to consider whether the [global.health](global.health) project to build an open database of human epidemiological line data would be appropriate for your needs.
@@ -30,3 +31,4 @@ PHAROS collects data on pathogen testing or parasite sampling in wild animals, w
 5. **Pathogen genetic or genomic sequence data.** There are other repositories that are more appropriate for these data, and we strongly encourage you to deposit data in submissions that are cross-linked. Any nucleotide sequence can be deposited in NCBI's [GenBank](https://www.ncbi.nlm.nih.gov/genbank/submit/) database; some pathogen sequence data (e.g., for influenza, SARS-CoV-2, and monkeypox) can also be deposited in [GISAID](gisaid.org). Metagenomic or metatranscriptomic data - including any samples meant to describe an entire animal microbiome - should be deposited in the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra/docs/submit/).
 
 6. **Data on pathogen environmental samples or free-living stages.** These are appropriate for several other databases, including [GBIF](gbif.org). All records submitted to PHAROS should include a host; do not submit data that document occurrences of e.g., questing ticks, hunting leeches, soil samples of environmentally-persistent bacteria, parasites in nest boxes, viral detection from bat guano, etc.
+
