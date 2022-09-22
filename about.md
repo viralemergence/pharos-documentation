@@ -9,4 +9,3 @@ The Verena Institute (formerly the Viral Emergence Research Initiative) was foun
 ## About Pharos
 
 The Pathogen Harmonized Surveillance database is an open-access atlas of wildlife disease data. Where comparable databases exist for free-living organisms, they occasionally include data on microbes, but are rarely built to capture the structure of symbiotic interactions, and are nearly never intended to store negative data, the "dark matter" that constitutes the majority of surveillance data by volume. PHAROS is a global open-access repository for wildlife disease surveillance, meant to enable data sharing across borders and projects in real-time, with built-in citation systems for credit and attribution, easy cross-linkage to other databases like GenBank, and an active community of practice that fosters innovation in viral ecology and public health.
-
