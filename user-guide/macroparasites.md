@@ -1,3 +1,6 @@
+---
+title: Macroparasites
+---
 
 ## How to handle macroparasites 
 
