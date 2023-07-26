@@ -1,7 +1,7 @@
 ---
-title: User Guide
+title: Quick start Guide
 ---
 
-# User Guide
+# Quick start guide
 
 A great starting point to learn about PHAROS
