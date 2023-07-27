@@ -19,6 +19,10 @@ Answer
 
 Answer
 
-### Question 3
+### How do I handle pooled samples?
+
+Answer
+
+### Why is my name and email public? 
 
 Answer
