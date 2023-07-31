@@ -1,5 +1,6 @@
 ---
 title: Vector-borne disease
+order: 4
 ---
 
 ## How to record data on vector-borne pathogens
