@@ -1,5 +1,6 @@
 ---
 title: Quick start guide
+order: 4
 ---
 
 # Quick start guide
