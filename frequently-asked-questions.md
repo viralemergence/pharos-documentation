@@ -1,6 +1,6 @@
 ---
 title: Frequently asked questions
-order: 3
+order: 4
 ---
 
 # Frequently asked questions
@@ -13,10 +13,11 @@ Answer
 
 Answer
 
+**What do I do if I don't know the exact date of sample collection?**
+
+Answer
+
 **How do I handle pooled samples?**
 
 Answer
 
-**Why is my name and email public**
-
-Answer

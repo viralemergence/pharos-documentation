@@ -1,31 +1,26 @@
 ---
 title: Quick start guide
-order: 4
+order: 3
 ---
 
 # Quick start guide
 
-A great starting point to learn about PHAROS.
+We welcome all open surveillance datasets.
 
-## Determine that your data is right for PHAROS
+**Set up an account**
 
-If you collect data on wildlife disease surveillance etc. 
+In order to upload your data to PHAROS, you first need to set up an account. For the time being, you must email INSERT EMAIL so that we can set up the account for you. We will need your first and last name, the email that you would like associated with the account, and the name of your institutional affiliation. We will then send you a password to use at login. 
 
-## Create an account
+**Format your data**
 
-To sign up for an account you will need to enter your first and last name, email, and, optionally, an affiliation. Your name and email will be discoverable along with your project once it is published. You will need to agree to the PHAROS Terms of Use before your account will be confirmed. 
+Before uploading your data to PHAROS, make sure that the data are formatted according to our formatting standards. A CSV template and the column definitions are available for download on the "All Projects" page of your account. Data that are not formatted according to our standards will not pass the validation check and thus will not be published. 
 
-## Format your data
+**Manage your project**
 
-Before uploading your data into PHAROS, make sure that your data is formatted according to our formatting standards. 
+Within your account you can create projects, edit project metadata, and upload and delete datasets within your projects. 
 
-## Manage your project
+**Publish your data**
 
-Within your account you can create projects, add project metadata, and add datasets to your projects. 
-
-## Publish your data
-
-When your data is ready, publishing your project will add your data to the publicly visible map and table that can be accessed on the main PHAROS page. 
-
+Publishing your data adds it to the public PHAROS database, which means that your datasets and your project metadata will be publicly visible on the site to someone without an account. At the moment, publishing is a two-step process. Step 1: When a dataset is finalized, you may click the "Release dataset" button on the dataset page, which will mark the dataset as ready to be published. Step 2: When there are released datasets within a project, you may click the "Publish" button on your project page. After a project has been published, any "released" datasets will be made public, and any "unreleased" datasets will not. To unpublish your project, find the "Unpublish project" button in your project menu. Unpublishing your project will remove it from public access.
 
 
