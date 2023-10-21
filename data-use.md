@@ -1,9 +1,9 @@
 ---
-title: Data use agreement
+title: User agreement
 order: 2
 ---
 
-# Data Use Agreement
+# User Agreement
 
 **By contributing data to PHAROS**, you are agreeing to let a global community of scientists access your publicly-shared data without restriction. The data you deposit in PHAROS should be your own: the authorship list attached to a dataset should accurately reflect ownership, and data should only be shared with the approval of all owners. Data should be shared judiciously: researchers are accountable for taking steps to minimize biosecurity and conservation risks (e.g., rounding coordinates), or -- in cases where those risks cannot be minimized -- for not uploading those data. 
 
