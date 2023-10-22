@@ -24,11 +24,10 @@ Another researcher screening a bat for bat flies might report that they identifi
 | scdo001       | scdo001    | _Scotozous dormeri_ |  Nycteribiidae  | Visual |
 | scdo002       | scdo002    | _Scotozous dormeri_ |  Nycteribiidae  | Visual |
 
-
-| Detection outcome | Pathogen | Detection measurement |
-| ---------- | --------- | -------------- | 
-| Positive      |_Scotozous dormeri_ |   3   | 
-| Negative      | -   | - |  
+| Detection outcome | Pathogen | Detection measurement | Detection measurement units | 
+| ------ | ------------------- | ------- | -------- | 
+| Positive      |_Scotozous dormeri_ |   3   | Count | 
+| Negative      |_Scotozous dormeri_ |  0 |  Count | 
 
 ## Atypical data
 
