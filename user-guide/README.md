@@ -1,9 +1,9 @@
 ---
-title: Quick start guide
+title: Data contributors' guide
 order: 3
 ---
 
-# Quick start guide
+# Getting started
 
 If you are a scientist working with open-access wildlife disease data, we welcome you to add your data to PHAROS. 
 
