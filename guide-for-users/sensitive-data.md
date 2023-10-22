@@ -1,6 +1,6 @@
 ---
 title: Sensitive data
-order: 5
+order: 3
 ---
 
 # Submitting sensitive data 

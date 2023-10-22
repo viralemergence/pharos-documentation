@@ -1,6 +1,6 @@
 ---
 title: Macroparasites
-order: 3
+order: 6
 ---
 
 # How to handle macroparasites 

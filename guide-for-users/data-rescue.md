@@ -1,6 +1,6 @@
 ---
 title: Data rescue and digitization
-order: 5
+order: 4
 ---
 
 # Data rescue and digitization
