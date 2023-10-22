@@ -1,6 +1,6 @@
 ---
 title: Frequently asked questions
-order: 4
+order: 1
 ---
 
 # Frequently asked questions

@@ -1,6 +1,6 @@
 ---
 title: Data we accept
-order: 1
+order: 2
 ---
 
 # Data we accept

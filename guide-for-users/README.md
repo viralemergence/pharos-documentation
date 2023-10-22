@@ -1,5 +1,5 @@
 ---
-title: Data contributors' guide
+title: User guide
 order: 3
 ---
 

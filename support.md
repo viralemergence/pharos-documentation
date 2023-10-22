@@ -1,6 +1,6 @@
 ---
 title: Support PHAROS
-order: 3
+order: 6
 ---
 
 # Funding support
@@ -9,4 +9,4 @@ PHAROS has been made possible by funding from the U.S. National Science Foundati
 
 # Can my organization support PHAROS?
 
-**Yes.** There is currently no dedicated funding behind this initiative: dedicated financial support would help keep our platform online, and ensure continued development of new features to support the global scientific community. If you're interested in supporting our work, contact Colin Carlson (colin.carlson@georgetown.edu) or Ellie Graeden (ellie.graeden@georgetown.edu).
+**Yes!** There is currently no dedicated funding behind this initiative: dedicated financial support would help keep our platform online, and ensure continued development of new features to support the global scientific community. If you're interested in supporting our work, contact Colin Carlson (colin.carlson@georgetown.edu) or Ellie Graeden (ellie.graeden@georgetown.edu).

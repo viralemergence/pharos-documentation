@@ -1,9 +1,9 @@
 ---
 title: Macroparasites
-order: 2
+order: 3
 ---
 
-## How to handle macroparasites 
+# How to handle macroparasites 
 
 If you're identifying macroparasites from an animal sample - say visual inspection for ectoparasites, or necropsy for endoparasites - you might not be running "tests" on "samples" in the familiar sense. We suggest that you 
 - think about the animal itself as equivalent to the "sample", 
