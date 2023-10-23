@@ -1,9 +1,9 @@
 ---
 title: Macroparasites
-order: 3
+order: 6
 ---
 
-## How to handle macroparasites 
+# How to handle macroparasites 
 
 If you're identifying macroparasites from an animal sample - say visual inspection for ectoparasites, or necropsy for endoparasites - you might not be running "tests" on "samples" in the familiar sense. We suggest that you 
 - think about the animal itself as equivalent to the "sample", 
@@ -24,11 +24,10 @@ Another researcher screening a bat for bat flies might report that they identifi
 | scdo001       | scdo001    | _Scotozous dormeri_ |  Nycteribiidae  | Visual |
 | scdo002       | scdo002    | _Scotozous dormeri_ |  Nycteribiidae  | Visual |
 
-
-| Detection outcome | Pathogen | Detection measurement |
-| ---------- | --------- | -------------- | 
-| Positive      |_Scotozous dormeri_ |   3   | 
-| Negative      | -   | - |  
+| Detection outcome | Pathogen | Detection measurement | Detection measurement units | 
+| ------ | ------------------- | ------- | -------- | 
+| Positive      |_Scotozous dormeri_ |   3   | Count | 
+| Negative      |_Scotozous dormeri_ |  0 |  Count | 
 
 ## Atypical data
 

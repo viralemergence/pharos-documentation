@@ -1,6 +1,6 @@
 ---
 title: Vector-borne disease
-order: 4
+order: 9
 ---
 
 ## How to record data on vector-borne pathogens
@@ -41,4 +41,4 @@ On the other hand, free-living stages without pathogens are outside the scope of
 
 | Host species        | Detection target | Detection outcome |
 | ------------------- | ---------------- | ----------------- |
-| _Ixodes scapularis_ | None             | NA                |
+| _Ixodes scapularis_ | None             | Not applicable    |

@@ -1,11 +1,11 @@
 ---
 title: Data we accept
-order: 1
+order: 2
 ---
 
 # Data we accept
 
-PHAROS collects data on pathogen testing or parasite sampling in wild animals, with a standardized format that captures taxonomic data and geospatial metadata. We particularly encourage you to submit negative data, i.e., the absence of a particular microbe or parasite for which detection was deliberately attempted.
+PHAROS collects data on pathogen testing or parasite sampling in wild animals, with a standardized format that captures taxonomic data and geospatial metadata. **We particularly encourage you to submit negative data**, i.e., lack of detection of a particular parasite or pathogen. 
 
 ## Data requirements
 
@@ -13,11 +13,11 @@ Data submitted to PHAROS must:
 
 - Be collected from wild animals
 
-- Include a host 
+- Include information on host and pathogen identity (not necessarily to species level)
 
-- Include a location
+- Include a location in longitude-latitude format
 
-- Include a date
+- Include a complete date
 
 ## Examples of data we accept
 
@@ -43,7 +43,7 @@ Example projects that could contribute data would include:
 
 - **Animal disease in captivity.** No experimental infections in laboratory settings, infection data from zoo animals, wildlife trade supply chain data, etc.
 
-- **Data on livestock select agents.** While we formalize a policy about dual use, we ask that you not deposit any original data (i.e., data not already published elsewhere) for any animal pathogens on the [USDA Veterinary Services list of Select Agents](https://www.selectagents.gov/sat/list.htm).
+- **Data on livestock select agents.** We ask that you not deposit any original data (i.e., data not already published elsewhere) for any animal pathogens on the [USDA Veterinary Services list of Select Agents](https://www.selectagents.gov/sat/list.htm).
 
 - **Pathogen genetic or genomic sequence data.** There are other repositories that are more appropriate for these data, and we strongly encourage you to deposit data in submissions that are cross-linked. Any nucleotide sequence can be deposited in NCBI's [GenBank](https://www.ncbi.nlm.nih.gov/genbank/submit/) database; some pathogen sequence data (e.g., for influenza, SARS-CoV-2, and monkeypox) can also be deposited in [GISAID](gisaid.org). Metagenomic or metatranscriptomic data - including any samples meant to describe an entire animal microbiome - should be deposited in the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra/docs/submit/).
 
