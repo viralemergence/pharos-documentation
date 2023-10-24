@@ -1,6 +1,6 @@
 ---
 title: Pooled samples
-order: 6
+order: 5
 ---
 
 # How to handle pooled samples

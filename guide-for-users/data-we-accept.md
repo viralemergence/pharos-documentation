@@ -1,6 +1,6 @@
 ---
-title: Data we accept
-order: 2
+title: Data we do and don't accept
+order: 1
 ---
 
 # Data we accept
@@ -18,6 +18,8 @@ Data submitted to PHAROS must:
 - Include a location in longitude-latitude format
 
 - Include a complete date
+
+- Be yours
 
 ## Examples of data we accept
 
@@ -49,3 +51,4 @@ Example projects that could contribute data would include:
 
 - **Data on pathogen environmental samples or free-living stages.** These are appropriate for several other databases, including [GBIF](gbif.org). All records submitted to PHAROS should include a host; do not submit data that document occurrences of e.g., questing ticks, hunting leeches, soil samples of environmentally-persistent bacteria, parasites in nest boxes, viral detection from bat guano, etc.
 
+- **Data you've digitized from the literature or accessed from other public sources (that isn't yours).** For now, we're not allowing data rescue or digitization projects into PHAROS. This is an ethics question, not a feasibility question: We're currently deciding the best way to recover large quantities of data from the published literature, while also honoring the principles around credit and equity that have shaped our approach. We will seek input from the community on this issue in the future, and may eventually develop a revised policy.

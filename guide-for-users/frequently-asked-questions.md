@@ -1,6 +1,6 @@
 ---
 title: Frequently asked questions
-order: 1
+order: 1000
 ---
 
 # Frequently asked questions

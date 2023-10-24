@@ -1,6 +1,6 @@
 ---
 title: Data dictionary
-order: 5
+order: 4
 ---
 
 # Data dictionary
