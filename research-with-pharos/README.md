@@ -1,6 +1,6 @@
 ---
-title: Researcher's guide
-order: 5
+title: Research with PHAROS
+order: 6
 ---
 
 # Before you start...

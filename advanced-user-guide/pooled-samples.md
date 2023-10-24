@@ -1,9 +1,11 @@
 ---
-title: Pooled samples
-order: 5
+title: Pooling
+order: 3
 ---
 
 # How to handle pooled samples
+
+Although PHAROS is designed for granular (animal-level) data, pooled testing is still a welcome data source.
 
 Researchers who are pooling samples from multiple animals can present that information one of two ways:
 

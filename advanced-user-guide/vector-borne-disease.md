@@ -1,15 +1,17 @@
 ---
 title: Vector-borne disease
-order: 8
+order: 6
 ---
 
-# Vector-borne disease 
+# How to handle vector-borne disease data
 
-## How to record data on vector-borne pathogens
+We strongly encourage the use of PHAROS to store information on vector-borne transmission of parasites and pathogens.
 
-We strongly encourage the use of PHAROS to store information on vector-borne transmission of parasites and pathogens. However, users should take special care to distinguish between two options for association syntax:
+## Combined records of hosts, vectors, and pathogens 
 
-### Option A: Host-parasite-pathogen nested records
+In cases with where datasets capture an interaction among a wildlife host, an arthropod vector, and a microbial pathogen, users should take special care to distinguish between two options for association syntax:
+
+### Option A: Host-vector-pathogen nested records
 
 _Example_: "We removed a tick (_Ixodes scapularis_) from a wild mouse (_Mus musculus_), and tested it for Lyme disease (_Borrelia burgdorferi_)."
 
@@ -44,3 +46,5 @@ On the other hand, free-living stages without pathogens are outside the scope of
 | Host species        | Detection target | Detection outcome |
 | ------------------- | ---------------- | ----------------- |
 | _Ixodes scapularis_ | None             | Not applicable    |
+
+These types of records can be shared in databases like GBIF (gbif.org).
