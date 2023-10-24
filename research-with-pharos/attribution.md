@@ -9,7 +9,9 @@ If you use data downloaded from PHAROS, you **must** properly credit its source.
 
 ## Required: cite downloads
 
-Every download is assigned a unique permanent link (e.g., pharos.viralemergence.org/downloads/#/dwn6LoFllkNjK), which shows the list of associated contributors and projects. This link **must** appear either in the full text or references of the paper.
+Every download is assigned a unique permanent link, which shows the list of associated contributors and projects. 
+
+This link **must** appear either in the full text or references of the paper.
 
 We prefer that you include the web link in the methods section, data availability statement, or acknowledgements (i.e., indexable text; not supporting information) of all publications using that download. For example:
 

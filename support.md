@@ -1,9 +1,11 @@
 ---
-title: Support PHAROS
+title: Funding Support
 order: 3
 ---
 
-# Funding support
+# Funding support 
+
+## Acknowledgements
 
 PHAROS has been made possible by funding from the U.S. National Science Foundation to the Verena program (NSF BII 2021909 and NSF BII 2213854), as well as in-kind contributions from Georgetown's Center for Global Health Science & Security, which is supported by a research grant from Open Philanthropy.
 

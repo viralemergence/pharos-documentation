@@ -1,11 +1,13 @@
 ---
 title: Serology
-order: 6
+order: 4
 ---
 
-# Serological studies
+# How to handle serological data
 
-Data from serological studies are incredibly welcome in PHAROS. Researchers should record sample metadata as usual, but note the relevant methods in "Detection method" and related fields, and - if possible - share both raw data and a comment about the cutoff for seropositivity. For example:
+Data from wildlife serostudies are incredibly welcome in PHAROS. 
+
+Researchers should record sample metadata as usual, but note the relevant methods in "Detection method" and related fields, and - if possible - share both raw data and a comment about the cutoff for seropositivity. For example:
 
 
 | Host species      | Detection method    | Detection target | Detection outcome | 

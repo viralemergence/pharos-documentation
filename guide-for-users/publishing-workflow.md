@@ -1,4 +1,4 @@
 ---
 title: The publishing workflow
-order: 3
+order: 4
 ---

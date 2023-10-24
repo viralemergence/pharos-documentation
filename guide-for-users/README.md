@@ -1,9 +1,9 @@
 ---
-title: Contributors' guide
+title: Sharing data with PHAROS
 order: 4
 ---
 
-# Getting started
+# Basics of data sharing
 
 If you are a scientist working with open-access wildlife disease data, we welcome you to add your data to PHAROS. 
 
