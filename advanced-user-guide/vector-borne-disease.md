@@ -17,10 +17,10 @@ _Example_: "We removed a tick (_Ixodes scapularis_) from a wild mouse (_Mus musc
 
 Indicate nested associations by marking the same sample _and_ the same animal (host):
 
-| Sample ID  | Animal ID | Host species   | Pathogen               |
-| ---------- | --------- | -------------- | ---------------------- |
-| s001       | mm001     | _Mus musculus_ | _Ixodes scapularis_    |
-| _**s001**_ | mm001     | _Mus musculus_ | _Borrelia burgdorferi_ |
+| | Sample ID  | Animal ID | Host species   | Pathogen               |
+|-| ---------- | --------- | -------------- | ---------------------- |
+|1| s001       | mm001     | _Mus musculus_ | _Ixodes scapularis_    |
+|2| _**s001**_ | mm001     | _Mus musculus_ | _Borrelia burgdorferi_ |
 
 ### Option B: Co-occurring host-parasite and host-vector associations
 
@@ -28,10 +28,10 @@ _Example_: "We removed a tick (_Ixodes scapularis_) from a wild mouse (_Mus musc
 
 Indicate nested associations by marking _different samples_ from the same animal (host):
 
-| Sample ID  | Animal ID | Host species   | Pathogen               |
-| ---------- | --------- | -------------- | ---------------------- |
-| s001       | mm001     | _Mus musculus_ | _Ixodes scapularis_    |
-| _**s002**_ | mm001     | _Mus musculus_ | _Borrelia burgdorferi_ |
+| | Sample ID  | Animal ID | Host species   | Pathogen               |
+|-| ---------- | --------- | -------------- | ---------------------- |
+|1| s001       | mm001     | _Mus musculus_ | _Ixodes scapularis_    |
+|2| _**s002**_ | mm001     | _Mus musculus_ | _Borrelia burgdorferi_ |
 
 ## Pathogen testing in free-living vectors
 

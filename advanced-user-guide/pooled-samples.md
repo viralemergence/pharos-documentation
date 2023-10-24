@@ -13,11 +13,11 @@ Researchers who are pooling samples from multiple animals can present that infor
 
 Suppose a researcher swabs three marmosets, and pools the three swabs into a single test for herpesviruses---but still wants to record metadata on individual animals. They might represent the single positive test result as:
 
-Sample ID | Animal ID | Host species  | Organism sex | Detection outcome | Pathogen  | GenBank accession |
-| ---------- |  ----------| ---------- |  ---------- | ---------- | ---------- | ---------- |  
-| CApool1 | Calla01 | _Callithrix aurita_ | Female | Positive | Macacine alphaherpesvirus 1 | GB8675309 |
-| CApool1 | Calla002 | _Callithrix aurita_ | Male |  Positive | Macacine alphaherpesvirus 1 | GB8675309 |
-| CApool1 | Calla003 | _Callithrix aurita_ | Female |  Positive | Macacine alphaherpesvirus 1 | GB8675309 |
+| |Sample ID | Animal ID | Host species  | Organism sex | Detection outcome | Pathogen  | GenBank accession |
+|-|---------- |  ----------| ---------- |  ---------- | ---------- | ---------- | ---------- |  
+|1| CApool1 | Calla01 | _Callithrix aurita_ | Female | Positive | Macacine alphaherpesvirus 1 | GB8675309 |
+|2| CApool1 | Calla002 | _Callithrix aurita_ | Male |  Positive | Macacine alphaherpesvirus 1 | GB8675309 |
+|3| CApool1 | Calla003 | _Callithrix aurita_ | Female |  Positive | Macacine alphaherpesvirus 1 | GB8675309 |
 
 In this format, the metadata for each animal is given on a separate row, but attached to the sampe Sample ID and GenBank accession. 
 
