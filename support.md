@@ -1,6 +1,6 @@
 ---
 title: Support PHAROS
-order: 6
+order: 3
 ---
 
 # Funding support

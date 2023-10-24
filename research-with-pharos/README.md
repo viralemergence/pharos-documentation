@@ -1,6 +1,6 @@
 ---
-title: User guide
-order: 4
+title: Researcher's guide
+order: 5
 ---
 
 # Before you start...
