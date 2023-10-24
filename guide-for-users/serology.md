@@ -1,6 +1,6 @@
 ---
 title: Serology
-order: 8
+order: 7
 ---
 
 # Serological studies
