@@ -3,6 +3,8 @@ title: Vector-borne disease
 order: 8
 ---
 
+# Vector-borne disease 
+
 ## How to record data on vector-borne pathogens
 
 We strongly encourage the use of PHAROS to store information on vector-borne transmission of parasites and pathogens. However, users should take special care to distinguish between two options for association syntax:
