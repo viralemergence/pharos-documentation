@@ -33,11 +33,11 @@ If your work focuses on re-analysis of a specific project or handful of projects
 
 ## Frequently asked questions
 
-**Q: What happens to cited datasets?**
+### Q: What happens to cited datasets?
 
 For now, citing your data sources is just a best practice for findability and attribution. Eventually, a top priority for our developers is to add a webscraper to our back-end that tracks how projects are being cited and automatically populates that information onto researchers' project pages, so that they can show off how their data are being used.
 
-**Q: Why don't we use DOIs?**
+### Q: Why don't we use DOIs?
 
 This might not be true forever, but in our beta launch:
 - Working with DOIs requires a fair bit of longevity planning (which we will do anyway)
