@@ -1,6 +1,6 @@
 ---
 title: Developer's guide
-order: 5
+order: 6
 ---
 
 # Developer's guide

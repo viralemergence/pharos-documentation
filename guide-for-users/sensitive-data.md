@@ -1,6 +1,6 @@
 ---
-title: Sensitive data
-order: 3
+title: Policy on sensitive data
+order: 2
 ---
 
 # Submitting sensitive data 

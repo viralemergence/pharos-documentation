@@ -1,6 +1,6 @@
 ---
-title: User guide
-order: 3
+title: Contributors' guide
+order: 4
 ---
 
 # Getting started
