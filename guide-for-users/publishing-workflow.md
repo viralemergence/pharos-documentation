@@ -5,7 +5,7 @@ order: 4
 
 # Follow these steps to publish your data
 
-Publishing your data adds it to the public PHAROS database, which means that your datasets and your project metadata will be visible on the public map and in the public data table and will be downloadable by anyone with a PHAROS account. Data can be unpublished at any time. 
+Publishing your data adds it to the public PHAROS database, which means that your datasets and your project metadata will be visible on the public map and in the public data table and will be downloadable by anyone with a PHAROS account. Data can be unpublished at any time.
 
 **Note: please make sure your data is formatted correctly according to our data dictionary before going through the steps to publish it. Data that is outside of our column structure will not be able to be published.**
 
@@ -37,29 +37,35 @@ Publishing your data adds it to the public PHAROS database, which means that you
 
 ## Click "Release dataset" when you are ready for the system to validate your data
 
-Refer to the column defintions CSV, or click the "+" sign in each cell to read the defintion. Columns that currently are validated are: 
+Refer to the column defintions CSV, or click the "+" sign in each cell to read the defintion. Columns that currently are validated are:
 
-- **Host species NCBI tax ID** 
+- **Host species**
+
+- **Host species NCBI tax ID**
 
 - **Latitude** must be a valid latitudinal value
 
 - **Longitude** must be a valid longitudinal value
 
+- **Spatial uncertainty** must be a numerical value
+
 - **Collection day, collection month, and collection year** must, taken together, read as a valid date
 
-- **Organism sex**
+- **Organism sex** must be a non-ambiguous value
 
-- **Dead or alive**
+- **Dead or alive** must be a non-ambiguous value
 
 - **Age** must be a numerical value
 
 - **Mass** must be a numerical value
 
-- **Length** must be a numberical value
+- **Length** must be a numerical value
+
+- **Detection outcome** must be a non-ambiguous value
 
 ## Fix any errors discovered after dataset validation
 
-Potential errors include: 
+Potential errors include:
 
 - Cell data is invalid for that column
 
@@ -71,10 +77,9 @@ Potential errors include:
 
 - When all errors are fixed the dataset is marked as "Released" which means it can be published
 
-## Return to the project page and press the "Publish" button 
+## Return to the project page and press the "Publish" button
 
 - Data is only publishable at the project level
-  
 - When you click the "Publish" button on a project, all "Released" datasets will be published
 
 - Unreleased datasets will not be published and will remain editable in your project
@@ -87,7 +92,6 @@ Potential errors include:
 
 ## If you want to unpublish your data
 
-- Projects can be unpublished at any time, and republished at any time after that 
+- Projects can be unpublished at any time, and republished at any time after that
 
-- To unpublish, click the dot menu and then click "Unpublish project" 
-
+- To unpublish, click the dot menu and then click "Unpublish project"
