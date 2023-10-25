@@ -39,9 +39,9 @@ Publishing your data adds it to the public PHAROS database, which means that you
 
 Refer to the column defintions CSV, or click the "+" sign in each cell to read the defintion. Columns that currently are validated are:
 
-- **Host species**
+- **Host species** must not be humans
 
-- **Host species NCBI tax ID**
+- **Host species NCBI tax ID** must be numerical and between 1-7 digits
 
 - **Latitude** must be a valid latitudinal value
 
@@ -51,9 +51,9 @@ Refer to the column defintions CSV, or click the "+" sign in each cell to read t
 
 - **Collection day, collection month, and collection year** must, taken together, read as a valid date
 
-- **Organism sex** must be a non-ambiguous value
+- **Organism sex** must be a non-ambiguous value like "female" or "male" or "unknown" ("m" and "f" are also fine) 
 
-- **Dead or alive** must be a non-ambiguous value
+- **Dead or alive** must be a non-ambiguous value 
 
 - **Age** must be a numerical value
 
@@ -80,6 +80,7 @@ Potential errors include:
 ## Return to the project page and press the "Publish" button
 
 - Data is only publishable at the project level
+  
 - When you click the "Publish" button on a project, all "Released" datasets will be published
 
 - Unreleased datasets will not be published and will remain editable in your project
