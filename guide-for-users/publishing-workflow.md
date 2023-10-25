@@ -5,21 +5,29 @@ order: 4
 
 # Follow these steps to publish your data
 
-Publishing your data adds it to the public PHAROS database, which means that your datasets and your project metadata will be visible on the public map and in the public data table. Data can be unpublished at any time. 
+Publishing your data adds it to the public PHAROS database, which means that your datasets and your project metadata will be visible on the public map and in the public data table and will be downloadable by anyone with a PHAROS account. Data can be unpublished at any time. 
 
-## Publishing
+**Note: please make sure your data is formatted correctly according to our data dictionary before going through the steps to publish it. Data that is outside of our column structure will not be able to be published.**
 
-1. ### Create a new project
+## Create a new project
 
-2. ### Create a new dataset within that project
+- Click your name in the navigation bar to access the list of your projects
+
+- To create a new project, click the "New project" button
+
+- From the project page you may also download the dataset template and the column definitions CSVs
+
+- The new project modal will ask you to fill in various metadata about your project; this can all be accessed later for additions and edits
+
+## Create a new dataset within that project
 
 - Name the dataset
 
-- Dataset units are not yet customizable; at the moment the system accepts only SI units
+- You will see the default dataset units; at the moment the system accepts only SI units, but they will be customizable soon
 
-3. ### Upload a CSV into your dataset
+## Upload a CSV into your dataset
 
-- Press the "Add rows from CSV" button to upload a CSV
+- In the toolbar on the right, press the "Add rows from CSV" button to upload a CSV
 
 - Uploading a second CSV will add the new data to the end of the dataset
 
@@ -27,7 +35,7 @@ Publishing your data adds it to the public PHAROS database, which means that you
 
 - Having extra columns in your dataset will stop the dataset from being publishable on PHAROS
 
-4. ### Click "Release dataset" when you are ready for the system to validate your data
+## Click "Release dataset" when you are ready for the system to validate your data
 
 Refer to the column defintions CSV, or click the "+" sign in each cell to read the defintion. Columns that currently are validated are: 
 
@@ -49,21 +57,37 @@ Refer to the column defintions CSV, or click the "+" sign in each cell to read t
 
 - **Length** must be a numberical value
 
-5. ### Fix any errors discovered after dataset validation
+## Fix any errors discovered after dataset validation
 
-6. ### When errors are fixed, click "Release dataset" again to successfully release
+Potential errors include: 
 
-7. ### When dataset is released, return to the project page
+- Cell data is invalid for that column
 
-- Data is only publishable at the project level 
+- Cell data is empty and that column is required
 
-8. ### On the project page, click "Publish" button 
+## Press the "Release dataset" button
 
-- When you click the "Publish" button on a project, all "Released"  datasets will be published
+- The "Release dataset" button will keep generating the validation reports until all your errors are fixed
 
-## Unpublishing
+- When all errors are fixed the dataset is marked as "Released" which means it can be published
+
+## Return to the project page and press the "Publish" button 
+
+- Data is only publishable at the project level
+  
+- When you click the "Publish" button on a project, all "Released" datasets will be published
+
+- Unreleased datasets will not be published and will remain editable in your project
+
+## If you want to publish a new dataset in an already published project
+
+- At the moment, to publish an additional dataset to a project that is already published, you have to mark the new dataset as "Released", "Unpublish" the whole project, and then "Publish" the project again
+
+- This workflow is understandably a bit clunky and will be updated to a better workflow soon
+
+## If you want to unpublish your data
 
 - Projects can be unpublished at any time, and republished at any time after that 
 
-- Click the dot menu and then click "Unpublish project" 
+- To unpublish, click the dot menu and then click "Unpublish project" 
 
