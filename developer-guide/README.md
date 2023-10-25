@@ -1,5 +1,5 @@
 ---
-title: Developer's guide
+title: Developer guide
 order: 7
 ---
 
