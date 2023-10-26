@@ -19,7 +19,7 @@ Suppose a researcher swabs three marmosets, and pools the three swabs into a sin
 |2| CApool1 | Calla002 | _Callithrix aurita_ | Male |  Positive | Macacine alphaherpesvirus 1 | GB8675309 |
 |3| CApool1 | Calla003 | _Callithrix aurita_ | Female |  Positive | Macacine alphaherpesvirus 1 | GB8675309 |
 
-In this format, the metadata for each animal is given on a separate row, but attached to the sampe Sample ID and GenBank accession. 
+In this format, the metadata for each animal is given on a separate row, but attached to the "Sample ID" and "GenBank accession". 
 
 ## Option 2: One-to-none sample-animal relationship
 

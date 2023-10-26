@@ -47,4 +47,4 @@ On the other hand, free-living stages without pathogens are outside the scope of
 | ------------------- | ---------------- | ----------------- |
 | _Ixodes scapularis_ | None             | Not applicable    |
 
-These types of records can be shared in databases like GBIF (gbif.org).
+These types of records can be shared in databases like [GBIF] (gbif.org).
