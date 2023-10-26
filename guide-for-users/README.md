@@ -7,20 +7,65 @@ order: 4
 
 If you are a scientist working with open-access wildlife disease data, we welcome you to add your data to PHAROS. 
 
-### Set up an account
+## User agreement
 
-In order to upload your data to PHAROS, you first need to set up an account, which you can do by clicking the "Sign up" button at the right of the navigation bar. We will need your first and last name, the email that you would like associated with the account, and the name of your institutional affiliation. Once you have created your account, you can sign in to the site. 
+- Familiarize yourself with our [user agreement] (https://staging-pharos.viralemergence.org/data-use/)
 
-### Format your data
-Before uploading your data, make sure that the data are formatted according to our formatting standards. Data must be in CSV form. A CSV template that included all required and non-required columns can be found on the "All Projects" page of your account, along with a second CSV with the column definitions. Data that are not formatted according to our standards will not pass the validation check and thus will not be published. 
+## Set up an account
 
-### Manage your project
-Within your account you can create projects, edit project metadata, and upload and delete datasets within your projects. Once your project has been published, you can also switch back and forth between the public version of your project, and the internal to which only you have access. 
+- Press "Sign up" at the top right of the navigation bar
 
-### Publish your data
-Publishing your data adds it to the public PHAROS database, which means that your datasets and your project metadata will be publicly visible on the site to someone without an account. At the moment, publishing is a two-step process. Step 1: When a dataset is finalized, you may click the "Release dataset" button on the dataset page, which will mark the dataset as ready to be published. Step 2: When there are released datasets within a project, you may click the "Publish" button on your project page. After a project has been published, any "released" datasets will be made public, and any "unreleased" datasets will not. To unpublish your project, find the "Unpublish project" button in your project menu. Unpublishing your project will remove it from public access.
+- Enter your first and last name, your email, and the name of your institutional affiliation
 
-### Download data
+- You will receive a verification code to your email which you will have to enter 
+
+- Once you've signed up, you can go to the "Sign in" page and enter your credentials 
+
+## Format your data
+
+- Data must be in CSV form and must use only the columns specified by our data structure 
+
+- A CSV template that included all required and non-required columns can be found on the "All projects" page of your account, along with a second CSV with the column definitions 
+
+- Data that are not formatted according to our standards will not pass the validation check and thus will not be published
+
+## Manage your project
+
+Within your account you can: 
+
+- Create projects
+
+- Edit project metadata
+
+- Upload and delete datasets within your projects
+
+- Preview the public version of your project page
+
+## Publish your data
+
+Publishing your data adds it to the public PHAROS database, which means that your datasets and your project metadata will be publicly visible on the site to someone without an account. At the moment, publishing is a two-step process (see the "Publishing workflow" page of the user guide for more detailed instructions): 
+
+- Step 1: When a dataset is finalized, click the "Release dataset" button on the dataset page, which will mark the dataset as ready to be published
+
+- Step 2: When there are one or more released datasets within a project, click the "Publish" button on your project page
+
+- After a project has been published, any "released" datasets will be made public, and any "unreleased" datasets will not
+
+- To unpublish your project, find the "Unpublish project" button in your project toolbar
+
+## Download data
+
+- Published datasets are downloadable by any PHAROS user with an account
+
+- Data can be filtered and downloaded from the data table page 
+
+- When you press "Download" on the public data table page, you will receive the requested download in your email, along with the citation for the data extract
+
+## Cite data
+
+- A citation to any PHAROS data used must appear either in the full text or references of the paper 
+
+- Read the [attribution requirement] (https://staging-pharos.viralemergence.org/research-with-pharos/attribution/) for more details 
 
 
 

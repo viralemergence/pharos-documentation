@@ -1,5 +1,5 @@
 ---
-title: Funding Support
+title: Funding support
 order: 3
 ---
 
