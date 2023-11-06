@@ -25,7 +25,7 @@ Depending on journal style, you can also cite data downloads in your methods; fo
 
 ## Suggested: cite projects
 
-If your work focuses on re-analysis of a specific project or handful of projects, we suggest also individually citing those projects, **in addition** to citing downloads. These can be again cited in-text or in the references:
+If your work focuses on re-analysis of a specific project or handful of projects, we suggest also individually citing those projects, **in addition** to citing downloads. Again, these can be cited in-text or in the references:
 
 > In this study we reanalyze data on paleolithic nematodes collected by Pumpkins _et al._ and openly shared on the Pathogen Harmonized Observatory web platform for wildlife disease (pharos.viralemergence.org/projects/#/prjWdyTyaIA)....
 
@@ -40,6 +40,8 @@ For now, citing your data sources is just a best practice for findability and at
 ### Q: Why don't we use DOIs?
 
 This might not be true forever, but in our beta launch:
+
 - Working with DOIs requires a fair bit of longevity planning (which we will do anyway)
-- Experience with other major open data sources tells us that DOI citations are often skipped by end users, partly due ot the challenges of data citations and journal reference formatting. (This is why we want you to have the option to put the token in-text - and why there's no excuse not to "cite" your data that way.)
+
+- Experience with other major open data sources tells us that DOI citations are often skipped by end users, partly due to the challenges of data citations and journal reference formatting. (This is why we want you to have the option to put the token in-text - and why there's no excuse not to "cite" your data that way.)
     

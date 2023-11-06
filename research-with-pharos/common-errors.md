@@ -8,7 +8,9 @@ order: 1
 ## What's in a row? 
 
 PHAROS is designed for easy entry but can contain fairly complex data structures. Researchers working with data downloaded from PHAROS should be aware of the tension between two basic principles:
+
 - Each row in PHAROS corresponds to a single measurement and an accompanying set of metadata
+
 - The open structure of the data allows many-to-many relationships between several fields, including test outcomes
 
 If researchers work with data without understanding these structures, they may incorrectly process their data.

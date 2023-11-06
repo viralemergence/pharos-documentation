@@ -7,7 +7,7 @@ order: 4
 
 Publishing your data adds it to the public PHAROS database, which means that your datasets and your project metadata will be visible on the public map and in the public data table and will be downloadable by anyone with a PHAROS account. Data can be unpublished at any time.
 
-**Note: please make sure your data is formatted correctly according to our data dictionary before going through the steps to publish it. Data that is outside of our column structure will not be able to be published.**
+**Note: please make sure your data is formatted correctly according to our data dictionary before going through the steps to publish it. Data that is outside of our column structure will not be able to be published. If you need any help with data formatting, contact Colin Carlson (colin.carlson@georgetown.edu).**
 
 ## Create a new project
 
@@ -37,7 +37,7 @@ Publishing your data adds it to the public PHAROS database, which means that you
 
 ## Click "Release dataset" when you are ready for the system to validate your data
 
-Refer to the column defintions CSV, or click the "+" sign in each cell to read the defintion. Columns that currently are validated are:
+Refer to the column definitions CSV, or click the "+" sign in each cell to read the defintion. Columns that currently are validated are:
 
 - **Host species** must not be humans
 
@@ -89,7 +89,7 @@ Potential errors include:
 
 - At the moment, to publish an additional dataset to a project that is already published, you have to mark the new dataset as "Released", "Unpublish" the whole project, and then "Publish" the project again
 
-- This workflow is understandably a bit clunky and will be updated to a better workflow soon
+- This workflow is a bit clunky and will be updated to a better workflow soon
 
 ## If you want to unpublish your data
 
