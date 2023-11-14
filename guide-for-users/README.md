@@ -9,7 +9,7 @@ If you are a scientist working with open-access wildlife disease data, we welcom
 
 ## User agreement
 
-- Familiarize yourself with our [user agreement] (https://staging-pharos.viralemergence.org/data-use/)
+- Familiarize yourself with our [user agreement](/data-use/)
 
 ## Set up an account
 
