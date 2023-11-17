@@ -59,7 +59,11 @@ Publishing your data adds it to the public PHAROS database, which means that you
 
 - Data can be filtered and downloaded from the data table page 
 
-- When you press "Download" on the public data table page, you will receive the requested download in your email, along with the citation for the data extract
+- When you press "Download" on the public data table page, the system will generate a page for your data extract and will send you an email with a link to that page
+
+- The data extract page will remain as a permanent record of your download; from that page you can access the citation for the data extract and download the same data again
+
+- In every data extract, all units will be SI units
 
 ## Cite data
 
