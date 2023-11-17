@@ -39,7 +39,7 @@ Example projects that could contribute data would include:
 
 ## Data we don't accept
 
-- **Human clinical data.** We do not accept any data on human disease surveillance. We encourage you to consider whether the [global.health](global.health) project to build an open database of human epidemiological line data would be appropriate for your needs.
+- **Human clinical data.** We do not accept any data on human disease surveillance. We encourage you to consider whether the [global.health](https://global.health/) project to build an open database of human epidemiological line data would be appropriate for your needs.
 
 - **Livestock or companion animal disease data.** At this time, we don't accept data on any captive, domestic, or livestock animal disease. These tend to fall under the jurisdiction of the World Organization for Animal Health, which shares data submitted by member states through the [WAHIS](https://wahis.woah.org/#/home) system. Data on feral cats, dogs, or other domesticated species is currently permissible.
 
