@@ -1,5 +1,14 @@
 # pharos-documentation
 
+## Markdown
+
+Quick help with Markdown formatting syntax can be found on
+the [Commonmark help page](https://commonmark.org/help/).
+
+The full
+[commonmark spec can be found here](https://spec.commonmark.org/0.30/).
+
+
 ## Directory, File and Page Structure
 
 The directory structure in this repository maps to the
@@ -94,4 +103,14 @@ program and will fill in the subject line with the
 text after the `?subject=` section of the
 link if it is provided (optional!).
 
+## Under the hood
 
+Markdown files in this repository are parsed using
+[micromark](https://github.com/micromark/micromark) which
+is compliant with
+[the commonmark standard](https://commonmark.org/help/) so
+commonmark documentation should be used as the reference
+for markdown syntax in this project.
+
+The full
+[commonmark spec can be found here](https://spec.commonmark.org/0.30/).
