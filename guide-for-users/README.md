@@ -9,7 +9,7 @@ If you are a scientist working with open-access wildlife disease data, we welcom
 
 ## User agreement
 
-- Familiarize yourself with our [user agreement](/data-use/)
+- Familiarize yourself with our [user agreement](/user-agreement/)
 
 ## Set up an account
 
@@ -69,7 +69,7 @@ Publishing your data adds it to the public PHAROS database, which means that you
 
 - A citation to any PHAROS data used must appear either in the full text or references of the paper 
 
-- Read the [attribution requirement] (https://staging-pharos.viralemergence.org/research-with-pharos/attribution/) for more details 
+- Read the [attribution requirement] (/research-with-pharos/attribution/) for more details
 
 
 
