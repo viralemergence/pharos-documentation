@@ -5,7 +5,7 @@ order: 1
 
 # About Verena
 
-[Verena (the Viral Emergence Research Initiative)](viralemergence.org) was founded in 2019 by Colin Carlson and Greg Albery, and established as a U.S. National Science Foundation Biology Integration Institute in 2022. Our mission is to use the science of the host-virus network to advance efforts to predict, prevent, and prepare for disease emergence. The Institute's work includes a mix of data synthesis, algorithm-in-the-loop machine learning, model-guided experiments, and boots-on-the-ground partnerships. All of our data and code is 100% open, giving you the tools you need to study viral emergence from anywhere in the world. Using that platform, we're training the next generation of scientists, from K-12 up through graduate and postgraduate mentorship.
+[Verena (the Viral Emergence Research Initiative)](https://www.viralemergence.org/) was founded in 2019 by Colin Carlson and Greg Albery, and established as a U.S. National Science Foundation Biology Integration Institute in 2022. Our mission is to use the science of the host-virus network to advance efforts to predict, prevent, and prepare for disease emergence. The Institute's work includes a mix of data synthesis, algorithm-in-the-loop machine learning, model-guided experiments, and boots-on-the-ground partnerships. All of our data and code is 100% open, giving you the tools you need to study viral emergence from anywhere in the world. Using that platform, we're training the next generation of scientists, from K-12 up through graduate and postgraduate mentorship.
 
 ## About PHAROS
 
