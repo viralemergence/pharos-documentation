@@ -1,4 +1,58 @@
-# pharos-documentation
+[![Pharos](https://github.com/viralemergence/pharos-database/blob/prod/img/pharos-banner.png)](https://pharos.viralemergence.org/)
+
+This repository is part of the [Pharos project](https://pharos.viralemergence.org/)
+which is split into three repositories:
+
+| Repository                                                                       | Purpose                                            |
+| -------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [`pharos-frontend`](https://github.com/viralemergence/pharos-frontend)           | Frontend application and deployment infrastructure |
+| [`pharos-api`](https://github.com/viralemergence/pharos-api)                     | API and deployment infrastructure                  |
+| [`pharos-database`](https://github.com/viralemergence/pharos-database)           | SQL database and deployment infrastructure         |
+| [`pharos-documentation`](https://github.com/viralemergence/pharos-documentation) | Markdown files used to generate about pages        |
+
+</br>
+</br>
+</br>
+<h1 align="center">
+  Pharos Documentation
+</h1>
+
+## 🚀 Deployment Status
+
+CI/CD deployments are not triggered by any changes in this repository, deployments of all
+content in the `publish` bransh of this repository occur when changes are pushed or builds
+are triggered in the [`pharos-frontend`](https://github.com/viralemergence/pharos-frontend)
+repository.
+
+| Branch  | CI/CD Status                                                                                                                                                                                                                                                 | Url                                                                              |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Prod    | [![CircleCI](https://dl.circleci.com/status-badge/img/circleci/39PL8myokkHY7obZPJeFEC/VSEyuiVS42F6DmyCLZcbdW/tree/prod.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/39PL8myokkHY7obZPJeFEC/VSEyuiVS42F6DmyCLZcbdW/tree/prod)       | [pharos.viralemergence.org/](https://pharos.viralemergence.org/)                 |
+| Staging | [![CircleCI](https://dl.circleci.com/status-badge/img/circleci/39PL8myokkHY7obZPJeFEC/VSEyuiVS42F6DmyCLZcbdW/tree/staging.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/39PL8myokkHY7obZPJeFEC/VSEyuiVS42F6DmyCLZcbdW/tree/staging) | [staging-pharos.viralemergence.org/](https://staging-pharos.viralemergence.org/) |
+| Review  | [![CircleCI](https://dl.circleci.com/status-badge/img/circleci/39PL8myokkHY7obZPJeFEC/VSEyuiVS42F6DmyCLZcbdW/tree/review.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/39PL8myokkHY7obZPJeFEC/VSEyuiVS42F6DmyCLZcbdW/tree/review)   | [dev-pharos.viralemergence.org/](https://review-pharos.viralemergence.org/)      |
+| Dev     | [![CircleCI](https://dl.circleci.com/status-badge/img/circleci/39PL8myokkHY7obZPJeFEC/VSEyuiVS42F6DmyCLZcbdW/tree/dev.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/39PL8myokkHY7obZPJeFEC/VSEyuiVS42F6DmyCLZcbdW/tree/dev)         | [dev-pharos.viralemergence.org/](https://dev-pharos.viralemergence.org/)         |
+
+Automated deployment schedule: AirtableCMS data is ingested, "About" content is ingested, and full site is built weekly on `Staging` site.
+
+</br>
+
+## 👩‍💻 Overview
+
+This repository contains the markdown files which are used to create the
+[`/about/` pages](https://pharos.viralemergence.org/about/) on
+[pharos.viralemergence.org/about/](https://pharos.viralemergence.org/about/).
+
+These pages contain documentation, instructions, user agreements, and other
+content to help users.
+
+## To contribute a documentation change:
+
+1. Team members with access may push changes to the `main` branch
+1. Contributors outside the core team may create a fork, and open a PR to this repository
+1. PR with changes should be made against the `publish` branch
+1. Once approved and merged, the documentation changes will show up on the `staging` site during the next automatic build
+1. To push changes to the `prod` site, a team member with appropriate permissions should trigger a build in [`pharos-frontend`](https://github.com/viralemergence/pharos-frontend).
+
+</br>
 
 ## Markdown
 
@@ -8,6 +62,7 @@ the [Commonmark help page](https://commonmark.org/help/).
 The full
 [commonmark spec can be found here](https://spec.commonmark.org/0.30/).
 
+</br>
 
 ## Directory, File and Page Structure
 
@@ -42,12 +97,14 @@ to its section (directory) The `order` field from the
 `README.md` file in each directory sets the order of the
 section in the parent list.
 
+</br>
+
 ## Linking
 
-*Files in this repository should not be renamed now that
+_Files in this repository should not be renamed now that
 the site is live, because it will break internal links
 (which we can fix) and external links and SEO (which we
-cannot fix)*. If renaming a file is extremely important,
+cannot fix)_. If renaming a file is extremely important,
 please reach out to
 [ryan.zimmerman@georgetown.edu](mailto:ryan.zimmerman@georgetown.edu).
 
@@ -102,6 +159,8 @@ Clicking the link will open the user's default email
 program and will fill in the subject line with the
 text after the `?subject=` section of the
 link if it is provided (optional!).
+
+</br>
 
 ## Under the hood
 
