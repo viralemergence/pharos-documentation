@@ -23,7 +23,7 @@ No, we do not currently support data without dates, or with incomplete dates (e.
 
 ### Is there a dataset size limitation?
 
-At the moment our system can upload datasets of up to 1,000 rows. We are actively working on improving this, and the limit will soon be much higher. For now, if your dataset is larger than 1,000 rows, please split the dataset into smaller datasets and upload them separately, or contact us for assistance. 
+At the moment our system can upload datasets of up to 50,000 rows. We are actively working on improving this, and the limit will soon be much higher. For now, if your dataset is larger than 50,000 rows, please split the dataset into smaller datasets and upload them separately, or contact us for assistance. 
 
 
 
